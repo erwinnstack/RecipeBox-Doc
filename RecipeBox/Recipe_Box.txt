@@ -1,0 +1,21 @@
+1. Pagina principală (Listă rețete)
+	Titlu: "Recipe Box".
+	Listă de rețete: Linkuri pentru fiecare rețetă, care duc la paginile detaliate ale acestora.
+	Căutare: Bară de căutare pentru găsirea rapidă a rețetelor.
+	Buton "Adaugă rețetă": Permite utilizatorilor să adauge rețete noi.
+2. Pagina detaliată a rețetei
+	Titlu: Numele rețetei (ex. "Paine casnică").
+	Ingrediente: Listă clară cu ingrediente.
+	Instrucțiuni: Pași detaliați pentru preparare.
+	Imagine: Poza rețetei (opțional, dar recomandat).
+	Buton "Înapoi": Pentru a reveni la lista de rețete.
+3. Adăugare rețetă
+	Formular pentru a adăuga o rețetă nouă:
+	Campuri pentru denumire, ingrediente, instrucțiuni și încărcare poză.
+	Buton "Salvează" pentru a salva rețeta.
+4. Design general
+	Culori calde și contrastante pentru text și fundal.
+	Responsive (mobil, tabletă, desktop).
+	Navigare simplă cu butoane pentru acasă, adăugare rețetă, și căutare.
+
+Link----https://www.figma.com/design/Y4My2fPaKvA4iEgNOZw8rb/RecipeBox?node-id=0-1&t=S9FQwSyTlqswKuvS-1
